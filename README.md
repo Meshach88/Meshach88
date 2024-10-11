@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMd-Ij&psig=AOvVaw1oEO6DQupo1IJia6g_BsmA&ust=1727271402532000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDIp9XZ24gDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Meshach Esuabom</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
